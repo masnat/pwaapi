@@ -1,0 +1,83 @@
+{
+"products": [{
+  "id": 1,
+  "name": "Blue shark",
+  "category": "Goldenrod"
+}, {
+  "id": 2,
+  "name": "Heron, grey",
+  "category": "Maroon"
+}, {
+  "id": 3,
+  "name": "Owl, australian masked",
+  "category": "Khaki"
+}, {
+  "id": 4,
+  "name": "Bustard, kori",
+  "category": "Green"
+}, {
+  "id": 5,
+  "name": "Ibis, puna",
+  "category": "Crimson"
+}, {
+  "id": 6,
+  "name": "Baboon, gelada",
+  "category": "Mauv"
+}, {
+  "id": 7,
+  "name": "Spotted deer",
+  "category": "Orange"
+}, {
+  "id": 8,
+  "name": "Snake, carpet",
+  "category": "Pink"
+}, {
+  "id": 9,
+  "name": "White-browed sparrow weaver",
+  "category": "Mauv"
+}, {
+  "id": 10,
+  "name": "Gazer, sun",
+  "category": "Violet"
+}, {
+  "id": 11,
+  "name": "Hoary marmot",
+  "category": "Violet"
+}, {
+  "id": 12,
+  "name": "Zebra, common",
+  "category": "Green"
+}, {
+  "id": 13,
+  "name": "Square-lipped rhinoceros",
+  "category": "Pink"
+}, {
+  "id": 14,
+  "name": "Mynah, indian",
+  "category": "Maroon"
+}, {
+  "id": 15,
+  "name": "Canadian tiger swallowtail butterfly",
+  "category": "Orange"
+}, {
+  "id": 16,
+  "name": "Mexican wolf",
+  "category": "Puce"
+}, {
+  "id": 17,
+  "name": "Black-collared barbet",
+  "category": "Blue"
+}, {
+  "id": 18,
+  "name": "Malabar squirrel",
+  "category": "Violet"
+}, {
+  "id": 19,
+  "name": "Black-winged stilt",
+  "category": "Blue"
+}, {
+  "id": 20,
+  "name": "Brush-tailed bettong",
+  "category": "Fuscia"
+}]
+}
